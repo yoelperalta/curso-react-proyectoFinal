@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.menuItem{
+    list-style: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.menuItem:hover{
+    cursor: pointer;
+}
+
+.cartWidget{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;    
+}

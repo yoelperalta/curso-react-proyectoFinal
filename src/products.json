@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://www.gonzalogalan.com.ar/wp-content/uploads/2017/10/aetos-2-manos0.jpg",
+        "category": "canas",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 2,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://aventuraflyshop.com.ar/wp-content/uploads/2022/02/610949-MLA46807263209_072021-900x1001.jpg",
+        "category": "canas",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 3,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://pescar.info/media/catalog/product/cache/40d1c302e28e18381788f97e05108739/i/n/inkedreel-grey-gull-serie-l-3_li.jpg",
+        "category": "reels",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 4,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://www.triestina.com.ar/wp-content/uploads/2017/12/muster-500x500.jpg",
+        "category": "reels",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 5,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://d22fxaf9t8d39k.cloudfront.net/f50ebfb95b6bd593f6af2dbba867090af9913d54c4ab6134808e145df2c1029c102157.webp",
+        "category": "lineas",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 6,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://www.triestina.com.ar/wp-content/uploads/2022/11/classic_floating_waterdog-1200x1200-1.jpg",
+        "category": "lineas",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 7,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://www.capitanyo.com.ar/33216-large_default/wader-respirable-patagonia-swiftcurrent-expedition-.jpg",
+        "category": "waders",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 8,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://www.mendozaflyshop.com/media/1188/wader.jpg",
+        "category": "waders",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 9,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://www.lavaguada.cl/reportajes/10-moscas-para-trucha/trout10.jpg",
+        "category": "moscas",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    },
+    {
+        "id": 10,
+        "nombre": "xxxxx",
+        "precio": 1234,
+        "img": "https://www.lavaguada.cl/reportajes/10-moscas-para-trucha/trout03.jpg",
+        "category": "moscas",
+        "descripcion": "qwertyuiop",
+        "stock": "4321"
+    }
+]
